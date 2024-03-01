@@ -338,6 +338,7 @@ a {
 
 /* Inputs */
 .formbox {
+    width: 79%;
     padding: 30px;
     display: flex;
     flex-direction: column;
